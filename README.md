@@ -4,13 +4,13 @@ This is a portfolio app created using React.js and hosted on Heroku with an endp
 
 ## Table of Contents
 
-**•	Introduction
-•	Features
-•	Technologies Used
-•	Installation
-•	Usage
-•	Contributing
-•	License**
+ > •Introduction
+ > •	Features
+ > •	Technologies Used
+ > •	Installation
+ > •	Usage
+ > •	Contributing
+ > •	License 
 
 ## Introduction
 
